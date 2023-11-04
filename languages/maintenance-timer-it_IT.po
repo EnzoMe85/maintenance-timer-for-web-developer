@@ -122,7 +122,7 @@ msgstr ""
 
 #: maintenance-timer-for-web-developer.php:136
 msgid "Updating WordPress, plugins, and the theme is crucial to"
-msgstr "L'aggiornamento di WordPress, dei plugin e del tema è fondamentale"
+msgstr "L'aggiornamento di WordPress, dei plugin e del tema è fondamentale per"
 
 #: maintenance-timer-for-web-developer.php:135
 msgid "Why is it essential to keep the site updated?"
