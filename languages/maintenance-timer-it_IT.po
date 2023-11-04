@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Maintenance Timer for Web Developer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-02 01:13+0000\n"
+"PO-Revision-Date: 2023-11-02 02:54+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italiano\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: maintenance-timer-for-web-developer"
+
+#: maintenance-timer-for-web-developer.php:135
+#: maintenance-timer-for-web-developer.php:140
+#: maintenance-timer-for-web-developer.php:160
+msgid "Contact"
+msgstr "Contatta"
+
+#: maintenance-timer-for-web-developer.php:96
+msgid "Contact Name for Renewal:"
+msgstr "Nome da contattare per il rinnovo:"
+
+#: maintenance-timer-for-web-developer.php:140
+msgid "days remaining for maintenance on"
+msgstr "giorni di manutenzione restanti per il sito"
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "days,"
+msgstr "giorni,"
+
+#: maintenance-timer-for-web-developer.php:136
+msgid "ensure site security and proper functioning."
+msgstr "garantire la sicurezza e il corretto funzionamento del sito."
+
+#: maintenance-timer-for-web-developer.php:140
+msgid "for assistance or to renew maintenance."
+msgstr "per ricevere assistenza o per rinnovare la manutenzione."
+
+#: maintenance-timer-for-web-developer.php:138
+msgid "Functionality"
+msgstr "Funzionalità"
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "hours,"
+msgstr "ore,"
+
+#: maintenance-timer-for-web-developer.php:99
+msgid "Link for Renewal Contact:"
+msgstr "Link per il contatto di rinnovo:"
+
+#: maintenance-timer-for-web-developer.php:135
+msgid "MAINTENANCE ALERT:"
+msgstr "ATTENZIONE MANUTENZIONE SCADUTA:"
+
+#: maintenance-timer-for-web-developer.php:19
+#: maintenance-timer-for-web-developer.php:147
+msgid "Maintenance Countdown"
+msgstr "Conto alla rovescia per la manutenzione"
+
+#: maintenance-timer-for-web-developer.php:140
+msgid "Maintenance Ongoing:"
+msgstr "Manutenzione in corso:"
+
+#: maintenance-timer-for-web-developer.php:20
+msgid "Maintenance Timer"
+msgstr "Timer Manutenzione"
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "minutes,"
+msgstr "minuti,"
+
+#: maintenance-timer-for-web-developer.php:137
+#, php-format
+msgid ""
+"New versions resolve security issues and vulnerabilities (95% of malware-"
+"compromised sites are not updated!)."
+msgstr ""
+"Le nuove versioni risolvono problemi di sicurezza e vulnerabilità (il 95% "
+"dei siti compromessi da malware non vengono aggiornati!)."
+
+#: maintenance-timer-for-web-developer.php:102
+msgid "Save"
+msgstr "Salva"
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "seconds"
+msgstr "secondi"
+
+#: maintenance-timer-for-web-developer.php:137
+msgid "Security"
+msgstr "Sicurezza "
+
+#: maintenance-timer-for-web-developer.php:93
+msgid "Select the date for maintenance expiration:"
+msgstr "Seleziona la data di scadenza della manutenzione:"
+
+#: maintenance-timer-for-web-developer.php:41
+msgid "Set Timer"
+msgstr "Impostazioni Timer Manutenzione"
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "Time remaining:"
+msgstr "Tempo residuo:"
+
+#: maintenance-timer-for-web-developer.php:135
+#: maintenance-timer-for-web-developer.php:160
+msgid "to renew maintenance for"
+msgstr "per rinnovare la manutenzione del sito"
+
+#: maintenance-timer-for-web-developer.php:138
+msgid ""
+"Updates bring new features and support for the latest hosting and external "
+"services."
+msgstr ""
+"Gli aggiornamenti apportano nuove funzionalità e supporto per gli ultimi "
+"servizi di hosting e esterni."
+
+#: maintenance-timer-for-web-developer.php:136
+msgid "Updating WordPress, plugins, and the theme is crucial to"
+msgstr "L'aggiornamento di WordPress, dei plugin e del tema è fondamentale"
+
+#: maintenance-timer-for-web-developer.php:135
+msgid "Why is it essential to keep the site updated?"
+msgstr "Perchè è fondamentale mantenere aggiornato il tuo sito?"

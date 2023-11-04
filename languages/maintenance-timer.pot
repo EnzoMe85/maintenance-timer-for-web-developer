@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-02 03:01+0100\n"
+"PO-Revision-Date: 2023-11-02 03:07+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: maintenance-timer-for-web-developer.php:19
+#: maintenance-timer-for-web-developer.php:147
+msgid "Maintenance Countdown"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:20
+msgid "Maintenance Timer"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:41
+msgid "Set Timer"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:93
+msgid "Select the date for maintenance expiration:"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:96
+msgid "Contact Name for Renewal:"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:99
+msgid "Link for Renewal Contact:"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:102
+msgid "Save"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:135
+msgid "MAINTENANCE ALERT:"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:135
+#: maintenance-timer-for-web-developer.php:140
+#: maintenance-timer-for-web-developer.php:160
+msgid "Contact"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:135
+#: maintenance-timer-for-web-developer.php:160
+msgid "to renew maintenance for"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:135
+msgid "Why is it essential to keep the site updated?"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:136
+msgid "Updating WordPress, plugins, and the theme is crucial to"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:136
+msgid "ensure site security and proper functioning."
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:137
+msgid "Security"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:137
+#, php-format
+msgid ""
+"New versions resolve security issues and vulnerabilities (95% of malware-"
+"compromised sites are not updated!)."
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:138
+msgid "Functionality"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:138
+msgid ""
+"Updates bring new features and support for the latest hosting and external "
+"services."
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:140
+msgid "Maintenance Ongoing:"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:140
+msgid "days remaining for maintenance on"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:140
+msgid "for assistance or to renew maintenance."
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "Time remaining:"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "days,"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "hours,"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "minutes,"
+msgstr ""
+
+#: maintenance-timer-for-web-developer.php:167
+msgid "seconds"
+msgstr ""
