@@ -30,6 +30,8 @@ The "Maintenance Timer for Web Developer" plugin manages and notifies users of t
 2. Go to 'Maintenance Timer' to set the maintenance expiration date and contact details for renewal.
 3. The plugin will display alerts in the administration panel based on the expiration date.
 4. It also provides a widget on the WordPress dashboard that shows the countdown to the maintenance expiration.
+5. ATTENTION: Only those with the Admin role will see and be able to change the settings in 'Maintenance Timer'.
+   All other roles will only see the noticeboard and countdown widget.
 
 ## Support
 
